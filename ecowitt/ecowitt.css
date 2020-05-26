@@ -15,7 +15,6 @@
   font-family: "Ecowitt Icons";
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale
@@ -158,7 +157,6 @@
 
 .ewv {
   font-size: 18px;
-  font-weight: bold;
 }
 
 /*
