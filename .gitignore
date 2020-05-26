@@ -1,0 +1,7 @@
+
+/.vs/
+**/temp/
+
+**/desktop.ini
+
+sync.bat
