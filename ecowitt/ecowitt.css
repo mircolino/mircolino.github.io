@@ -15,6 +15,7 @@
   font-family: "Ecowitt Icons";
   font-style: normal;
   font-weight: normal;
+  font-size: 18px;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale
@@ -149,4 +150,21 @@
 .ewi-windNNW:before {
   transform: rotate(-22.5deg);
   content: "\0059";
+}
+
+/*
+ * Ecowitt value class
+ */
+
+.ewv {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*
+ * Ecowitt unit class
+ */
+
+.ewu {
+  font-size: 12px;
 }
