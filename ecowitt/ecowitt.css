@@ -155,7 +155,7 @@
  * Ecowitt value class
  */
 
-.ewv:before {
+.ewv {
   font-size: 120%;
 }
 
@@ -163,6 +163,6 @@
  * Ecowitt unit class
  */
 
-.ewu:before {
+.ewu {
   font-size: 80%;
 }
